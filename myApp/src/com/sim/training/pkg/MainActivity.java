@@ -7,7 +7,7 @@ import android.view.Menu;
 import android.view.MenuItem;
 import android.widget.Button;
 import android.widget.Toast;
-
+//Test Comment
 public class MainActivity extends ActionBarActivity {
 
 	@Override
